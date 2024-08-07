@@ -1,6 +1,6 @@
 # Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement
 
-This repository is built for the paper [Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement](https://arxiv.org/abs/2408.xxxxx). 
+This repository is built for the paper [Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement](https://arxiv.org/abs/2408.03092). 
 If you have any questions, please feel free to let us know. You can directly email [Le Yu](https://yule-buaa.github.io/) using the email address yule@buaa.edu.cn or post an issue on this repository.
 
 
@@ -34,7 +34,7 @@ We implement eight model merging methods in this repository, including
 [TIES-Merging](https://arxiv.org/abs/2306.01708),
 [Breadcrumbs](https://arxiv.org/abs/2312.06795), 
 [DARE](https://arxiv.org/abs/2311.03099), and 
-the proposed [WIDEN](https://arxiv.org/abs/2408.xxxxx).
+the proposed [WIDEN](https://arxiv.org/abs/2408.03092).
 
 
 ## Project Architecture
@@ -160,7 +160,7 @@ Please consider citing our paper when using this project.
 @article{yu2024extend,
   title={Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement},
   author={Yu, Le and Yu, Bowen and Yu, Haiyang and Huang, Fei and Li, Yongbin},
-  journal={arXiv preprint arXiv:2408.xxxxx},
+  journal={arXiv preprint arXiv:2408.03092},
   year={2024}
 }
 ```
